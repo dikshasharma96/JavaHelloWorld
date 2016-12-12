@@ -1,16 +1,14 @@
 
-package abbey.project1;
+package Diksha.project1;
 
-/**
- * @author olajide0322
- */
-public class AbbeyProject1 {
+
+public class DikshaProject1 {
 
     
     public static void main(String[] args) {
         // Say Hello
         String name = "Diksha";
-        System.out.println("Hello, World from  "+ name);
+        System.out.println("Hello, brave new World from  "+ name);
     }
     
 }
