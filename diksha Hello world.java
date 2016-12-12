@@ -1,7 +1,10 @@
 
 package Diksha.project1;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b599d06de241d6c9aaed4f6da047dceb3f645906
 public class DikshaProject1 {
 
     
