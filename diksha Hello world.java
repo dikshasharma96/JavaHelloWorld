@@ -1,10 +1,7 @@
 
-package abbey.project1;
+package Diksha.project1;
 
-/**
- * @author olajide0322
- */
-public class AbbeyProject1 {
+public class DikshaProject1 {
 
     
     public static void main(String[] args) {
